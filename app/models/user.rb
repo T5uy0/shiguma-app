@@ -3,7 +3,10 @@
 # User class definition
 class User < ActiveRecord::Base
   has_secure_password
-  has_many foreign_key: 'user_id'
+
+  has_many :meals
+  has_many :consumptions 
+  has_many :consumed_meals, through: :consumptions, source: :meal
 
   validates :name, presence: true
   validates :email, presence: true, uniqueness: true

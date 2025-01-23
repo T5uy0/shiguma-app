@@ -10,3 +10,7 @@ gem 'rake'
 gem 'sinatra-activerecord'
 
 gem 'bcrypt'
+
+group :development, :test do
+  gem 'rerun'
+end

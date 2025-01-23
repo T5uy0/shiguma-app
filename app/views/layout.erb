@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shiguma Tracking</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100">
+    <div class="w-full bg-white py-2 shadow-md">
+        <div class="w-3/4 mx-auto flex">
+            <h1>Shiguma</h1>
+
+            <% if session[:user_id] %>
+            <div class="links flex ml-52">
+                <a href="/">Accueil</a>
+            </div>
+            <% end %>
+        </div>
+    </div>
+
+    <div class="content">
+        <%= yield %>
+    </div>
+</body>
+</html>
