@@ -1,0 +1,27 @@
+<div class="w-1/3 mx-auto mt-12 bg-white p-4 rounded-md">
+    <h2 class="text-2xl py-4">Liste des ingrédiants</h2>
+    <div>
+        <table class="m-5 border-collapse border border-gray-400">
+            <thead>
+                <tr>
+                    <th class="p-2 border border-gray-300">Nom de l'ingrédiant</th>
+                    <th class="p-2 border border-gray-300">kcal par portion</th>
+                    <th class="p-2 border border-gray-300">Option</th>
+                </tr>
+            </thead>
+            <tbody>
+                <% @meals.each do |meal| %>
+                    <tr>
+                        <th class="border border-gray-300"><%= meal.name %></th>
+                        <th class="border border-gray-300"><%= meal.calories %></th>
+                        <th class="text-start border border-gray-300">
+                            <a href="/meals/edit">modifier</a>
+                            <a href="/meals/delete/<%= meal.id %>">supprimer</a>
+                        </th>
+                    </tr>
+                <% end %>
+            </tbody>
+        </table>
+        <a class="p-2 w-full text-center bg-blue-500 text-white rounded-md" href="/meals/create">Ajouter un aliment</a>    
+    </div>
+   </div>
