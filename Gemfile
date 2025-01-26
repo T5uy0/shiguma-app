@@ -11,6 +11,8 @@ gem 'sinatra-activerecord'
 
 gem 'bcrypt'
 
+gem 'i18n'
+
 group :development, :test do
   gem 'rerun'
 end

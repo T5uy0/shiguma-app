@@ -5,7 +5,16 @@ require './app'
 require 'nokogiri'
 
 get '/meals/index' do
-  @meals = Meal.where(is_active: 1)
+
+  @meals = Meal.where(is_active: true)
+              .where(user_id: session[:user_id])
+              .or(Meal.where(is_active: true).where(is_default: true))
+
+  @meals_is_empty = false
+  if @meals.empty?
+    @meals_is_empty = true
+  end
+
   erb :"meal/index"
 end
 
@@ -32,7 +41,6 @@ get '/meals/delete/:meal_id' do
   user = User.find(session[:user_id])
   meal = user.meals.find_by(id: params[:meal_id])
 
-  meal.update(is_active: 0, name:0)
-
+  meal.update(is_active: 0)
   redirect '/meals/index'
 end

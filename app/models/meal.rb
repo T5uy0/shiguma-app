@@ -9,8 +9,11 @@ class Meal < ActiveRecord::Base
 
   belongs_to :user
 
-  validates :name, presence: true, uniqueness: { scope: :user_id, message: "Ce repas existe déjà pour cet utilisateur." }, if: :is_active?
+  validates :name, presence: true
 
   validates :calories, presence: true, numericality: { greater_than_or_equal_to: 0 }
+
+  scope :default_meals, -> { where(is_default: true) }
+  scope :user_meals, ->(user_id) { where(user_id: user_id) } 
 
 end

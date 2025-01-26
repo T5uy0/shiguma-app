@@ -78,6 +78,7 @@ PLATFORMS
 DEPENDENCIES
   activerecord
   bcrypt
+  i18n
   mysql2
   rake
   rerun

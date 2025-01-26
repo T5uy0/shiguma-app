@@ -8,6 +8,13 @@ get '/' do
   @user = User.find(session[:user_id]);
   @daily_consumptions = @user.consumptions.where(consumed_at: Date.today.all_day)
   @daily_consumptions_empty = false
+  @history = @user.consumptions.order(consumed_at: :desc).group_by { |c| c.consumed_at.to_date }
+
+  if @history.empty?
+    @history_consumptions_empty = true
+  else
+    @history_consumptions_empty = false
+  end
 
   if @daily_consumptions.empty?
     @daily_consumptions_empty = true

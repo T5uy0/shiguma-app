@@ -19,4 +19,22 @@
             <a class="p-2 w-full text-center bg-blue-500 text-white rounded-md" href="meals/index">Voir aliments</a>
         </div>
     </div>
+    <h1 class="text-2xl">Historique des Consommations</h1>
+    <% if @history_consumptions_empty == true %>
+            <p>Vous n'avez pas d'historique.</p>
+        <% else %>
+            <% @history.each do |date, consumptions| %>
+                <h2 class="text-xl"><em><%= date.strftime("%d %B %Y") %></em></h2> <!-- Affiche la date -->
+        
+                <ul>
+                    <% consumptions.each do |consumption| %>
+                    <li>
+                        <strong><%= consumption.meal.name %></strong>
+                        <span>- <%= consumption.quantity %> portion(s)</span>
+                        <span>- <%= consumption.meal.calories * consumption.quantity %> kcal</span>
+                    </li>
+                    <% end %>
+                </ul>
+            <% end %>
+        <% end %>
 </div>
