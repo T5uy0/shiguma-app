@@ -1,0 +1,13 @@
+<div class="login w-1/3 mx-auto mt-12 bg-white p-4 rounded-md">
+    <form action="/register" method="post">
+        <label for="Name">Nom</label>
+        <input type="text" name="name" id="name" placeholder="John Doe" class="w-full mb-4 p-2 border border-black rounded-md">
+        <label for="email">Email</label>
+        <input type="email" name="email" id="email" placeholder="john@doe.com" pattern="[\w-\.]+@([\w-]+\.)+[\w-]{2,4}" class="w-full mb-4 p-2 border border-black rounded-md">
+        <label for="password">Mot de passe</label>
+        <input type="password" name="password" id="password" class="w-full mb-4 p-2 border border-black rounded-md">
+        <input type="submit" value="S'enregistrer" class="w-full py-2 bg-blue-500 text-white rounded-md">
+    </form>
+    <p>Ou <a href="/login" class="text-blue-500">se connecter</a></p>
+    <p class="text-red-500 text-center"><%= session[:error] %></p>
+</div>

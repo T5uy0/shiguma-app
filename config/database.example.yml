@@ -1,0 +1,10 @@
+development:
+  adapter: mysql2
+  encoding: utf8mb4
+  reconnect: true
+  database: nom_de_ta_base_de_donnees
+  pool: 5
+  username: ton_nom_utilisateur
+  password: ton_mot_de_passe
+  host: localhost
+  port: 3306

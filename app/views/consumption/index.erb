@@ -1,0 +1,40 @@
+<div class="w-1/3 mx-auto mt-12 bg-white p-4 rounded-md">
+    <h2 class="text-4xl">Bienvenue <strong><%= @user.name %></strong></h2>
+    <div class="p-6">
+        <% if @daily_consumptions_empty == true %>
+            <p>Vous n'avez rien consommé aujourd'hui</p>
+        <% else %>
+            <h3>Vos repas :</h3>
+            <% @daily_consumptions.each do |consumption| %>
+            <p class="p-1 space-y-4">
+                <%= consumption.quantity %> x 
+                <%= consumption.meal.name %> 
+                (<%= consumption.meal.calories %> kcal par portion)
+            </p>
+            <% end %>
+            <p>Aujourd'hui vous avez consommé <%= @daily_calories %> kcal.</p>
+        <% end %>
+        <div class="py-4 flex justify-center space-x-4">
+            <a class="p-2 w-full text-center bg-blue-500 text-white rounded-md" href="consumptions/create">Ajouter un repas</a>
+            <a class="p-2 w-full text-center bg-blue-500 text-white rounded-md" href="meals/index">Voir aliments</a>
+        </div>
+    </div>
+    <h1 class="mb-5 text-2xl">Historique des Consommations</h1>
+    <% if @history_consumptions_empty == true %>
+            <p>Vous n'avez pas d'historique.</p>
+        <% else %>
+            <% @history.each do |date, consumptions| %>
+                <h2 class="text-xl"><em><%= date %></em></h2> <!-- Affiche la date -->
+        
+                <ul class="mb-5">
+                    <% consumptions.each do |consumption| %>
+                    <li>
+                        <strong><%= consumption.meal.name %></strong>
+                        <span>- <%= consumption.quantity %> portion(s)</span>
+                        <span>- <%= consumption.meal.calories * consumption.quantity %> kcal</span>
+                    </li>
+                    <% end %>
+                </ul>
+            <% end %>
+        <% end %>
+</div>
