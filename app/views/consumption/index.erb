@@ -37,4 +37,9 @@
                 </ul>
             <% end %>
         <% end %>
+
+        <h2>Votre poid :</h2>
+        <% @user.masses.each do |weight| %>
+          <p><%= weight.mass %> kg</p>
+        <% end %>
 </div>

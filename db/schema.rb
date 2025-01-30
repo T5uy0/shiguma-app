@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[8.0].define(version: 2025_01_26_113654) do
+ActiveRecord::Schema[8.0].define(version: 2025_01_30_084833) do
   create_table "consumptions", charset: "utf8mb4", collation: "utf8mb4_uca1400_ai_ci", force: :cascade do |t|
     t.bigint "user_id"
     t.bigint "meal_id"
@@ -20,6 +20,14 @@ ActiveRecord::Schema[8.0].define(version: 2025_01_26_113654) do
     t.datetime "updated_at", null: false
     t.index ["meal_id"], name: "index_consumptions_on_meal_id"
     t.index ["user_id"], name: "index_consumptions_on_user_id"
+  end
+
+  create_table "masses", charset: "utf8mb4", collation: "utf8mb4_uca1400_ai_ci", force: :cascade do |t|
+    t.bigint "user_id"
+    t.integer "mass", null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["user_id"], name: "index_masses_on_user_id"
   end
 
   create_table "meals", charset: "utf8mb4", collation: "utf8mb4_uca1400_ai_ci", force: :cascade do |t|
@@ -44,5 +52,6 @@ ActiveRecord::Schema[8.0].define(version: 2025_01_26_113654) do
 
   add_foreign_key "consumptions", "meals"
   add_foreign_key "consumptions", "users"
+  add_foreign_key "masses", "users"
   add_foreign_key "meals", "users"
 end
