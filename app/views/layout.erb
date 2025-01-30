@@ -9,13 +9,16 @@
 </head>
 <body class="bg-gray-100">
     <div class="w-full bg-white py-2 shadow-md">
-        <div class="w-3/4 mx-auto flex">
-            <h1>Shiguma</h1>
+        <div class="w-3/4 mx-auto flex justify-between items-center">
+            <h1 class="p-2">Shiguma</h1>
 
             <% if session[:user_id] %>
-            <div class="links flex ml-52">
+
                 <a href="/">Accueil</a>
-            </div>
+                <a href="/user/edit">Profil</a>
+                <a href="/masses/index">Gestions poids</a>
+                <a class="p-2 w-32 bg-red-500 text-white text-center rounded-md" href="/logout">Déconnexion</a>
+
             <% end %>
         </div>
     </div>

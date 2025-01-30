@@ -22,6 +22,7 @@ get '/' do
   else
     @daily_calories = @daily_consumptions.sum { |consumption| consumption.meal.calories * consumption.quantity }
   end
+
   erb :"consumption/index"
 end
 

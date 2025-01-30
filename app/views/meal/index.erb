@@ -19,8 +19,8 @@
                             <th class="border border-gray-300"><%= meal.calories %></th>
                             <th class="text-start border border-gray-300">
                                 <% if !meal.is_default == true %>
-                                    <a href="/meals/edit"><i class="fa-solid fa-pencil"></i></a>
-                                    <a href="/meals/delete/<%= meal.id %>"><i class="fa-solid fa-trash"></i></a>
+                                    <a href="/meals/<%= meal.id %>/edit"><i class="fa-solid fa-pencil"></i></a>
+                                    <a href="/meals/<%= meal.id %>/delete"><i class="fa-solid fa-trash"></i></a>
                                 <% end %>
                             </th>
                         </tr>
