@@ -3,6 +3,7 @@
 require 'sinatra'
 require './app'
 require 'nokogiri'
+require 'chartkick'
 
 get '/' do
   @user = User.find(session[:user_id]);
@@ -11,7 +12,23 @@ get '/' do
   
   @history = @user.consumptions.order(consumed_at: :desc).group_by { |c| I18n.l(c.consumed_at.to_date, format: "%d %B %Y") }
 
-  if @history.empty?
+  # Regrouper les consommations par jour et sommer les calories
+  @calories_per_day = @user.consumptions
+  .order(consumed_at: :asc)
+  .group_by { |c| I18n.l(c.consumed_at.to_date, format: "%d %B %Y")}
+  .transform_values do |consumptions|
+    {
+      total_calories: consumptions.sum { |c| c.meal.calories * c.quantity },
+      details: consumptions
+    }
+  end
+
+  @weight_data = @user.masses
+  .order(:created_at)
+  .map { |c| [I18n.l(c.created_at.to_date, format: "%d %B %Y"), c.mass] }
+
+
+  if @calories_per_day.empty?
     @history_consumptions_empty = true
   else
     @history_consumptions_empty = false
