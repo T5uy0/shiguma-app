@@ -1,0 +1,31 @@
+<div class="w-1/3 mx-auto mt-12 bg-white p-4 rounded-md">
+    <h2 class="text-4xl">Vos mesures de poids</h2>
+          
+      <% if @masses_is_empty == true %>
+            <p class="m-5">Vous avez aucun poid !</p>
+        <% else %>
+            <table class="m-5 border-collapse border border-gray-400">
+                <thead>
+                    <tr>
+                    <th class="p-2 border border-gray-300">Date</th>
+                    <th class="p-2 border border-gray-300">Poids (kg)</th>
+                    <th class="p-2 border border-gray-300">Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <% @user.masses.each do |weight| %>
+                    <tr>
+                        <td class="p-2 border border-gray-300"><%= weight.created_at.strftime('%d-%m-%Y') %></td>
+                        <td class="p-2 border border-gray-300"><%= weight.mass %></td>
+                        <td class="p-2 border border-gray-300">
+                        <a href="/masses/<%= weight.id %>/edit"><i class="fa-solid fa-pencil"></i></a>
+                        <a href="/masses/<%= weight.id %>/delete"><i class="fa-solid fa-trash" style="color: red;"></i></a>
+                        </td>
+                    </tr>
+                    <% end %>
+                </tbody>
+            </table>
+        <% end %>
+        <a class="p-2 w-full text-center bg-blue-500 text-white rounded-md" href="/masses/create">Ajouter une mesure</a> 
+
+</div>

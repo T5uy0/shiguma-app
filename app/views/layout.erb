@@ -5,17 +5,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Shiguma</title>
     <script src="https://cdn.tailwindcss.com"></script>
+
+    <script src="https://www.gstatic.com/charts/loader.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartkick@4.0.0/dist/chartkick.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body class="bg-gray-100">
     <div class="w-full bg-white py-2 shadow-md">
-        <div class="w-3/4 mx-auto flex">
-            <h1>Shiguma</h1>
+        <div class="w-3/4 mx-auto flex justify-between items-center">
+            <h1 class="p-2">Shiguma</h1>
 
             <% if session[:user_id] %>
-            <div class="links flex ml-52">
+
                 <a href="/">Accueil</a>
-            </div>
+                <a href="/user/edit">Profil</a>
+                <a href="/masses/index">Gestions poids</a>
+                <a class="p-2 w-32 bg-red-500 text-white text-center rounded-md" href="/logout">Déconnexion</a>
+
             <% end %>
         </div>
     </div>

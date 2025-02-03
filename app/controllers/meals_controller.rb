@@ -14,7 +14,6 @@ get '/meals/index' do
   if @meals.empty?
     @meals_is_empty = true
   end
-
   erb :"meal/index"
 end
 
@@ -32,15 +31,44 @@ post '/meals/store' do
   if meal.save
     redirect '/meals/index'
   else
-    @already_exist_meal = "Erreur : #{meal.errors.full_messages.join(", ")}"
+    @err = "Erreur : #{meal.errors.full_messages.join(", ")}"
     erb :'meal/create'
   end
 end
 
-get '/meals/delete/:meal_id' do
+get '/meals/:meal_id/delete' do
   user = User.find(session[:user_id])
   meal = user.meals.find_by(id: params[:meal_id])
 
-  meal.update(is_active: 0)
-  redirect '/meals/index'
+  if meal.nil?
+    erb :"error/404"
+  else
+    meal.update(is_active: 0)
+    redirect '/meals/index'
+  end
+end
+
+get '/meals/:meal_id/edit' do
+  user = User.find(session[:user_id])
+  @meal = user.meals.find_by(id: params[:meal_id])
+
+  if @meal.nil?
+    erb :"error/404"
+  else
+    erb :"meal/edit"
+  end
+end
+
+post '/meals/:meal_id/update' do
+  user = User.find(session[:user_id])
+  meal = user.meals.find_by(id: params[:meal_id])
+
+  meal.update(name: params['name'],calories: params['calories'])
+
+  if meal.save
+    redirect '/meals/index'
+  else
+    @err = "Erreur : #{meal.errors.full_messages.join(", ")}"
+    erb :'meal/edit'
+  end
 end
