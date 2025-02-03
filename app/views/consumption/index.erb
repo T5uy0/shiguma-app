@@ -21,20 +21,18 @@
     </div>
     <h1 class="mb-5 text-2xl">Historique des Consommations</h1>
     <% if @history_consumptions_empty == true %>
-            <p>Vous n'avez pas d'historique.</p>
-        <% else %>
-            <% @history.each do |date, consumptions| %>
-                <h2 class="text-xl"><em><%= date %></em></h2> <!-- Affiche la date -->
-        
-                <ul class="mb-5">
-                    <% consumptions.each do |consumption| %>
-                    <li>
-                        <strong><%= consumption.meal.name %></strong>
-                        <span>- <%= consumption.quantity %> portion(s)</span>
-                        <span>- <%= consumption.meal.calories * consumption.quantity %> kcal</span>
-                    </li>
-                    <% end %>
-                </ul>
-            <% end %>
-        <% end %>
+        <p>Vous n'avez pas d'historique.</p>
+    <% else %>
+        <%= column_chart @calories_per_day.map { |date, data| [date, data[:total_calories]] },
+        ytitle: "Calories [kcal]",
+        colors: ["#e74c3c"] %>
+    <% end %>
+
+    <h2 class="mb-5 text-2xl">Graphique d'évolution de votre poids :</h2>
+    <%= area_chart @weight_data, 
+    ytitle: "Poids (kg)",
+    colors: ["#3498db"],
+    library: { backgroundColor: "#f5f5f5" } %>
+
+
 </div>

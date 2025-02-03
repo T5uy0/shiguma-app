@@ -27,6 +27,24 @@ post '/register' do
   end
 end
 
+get '/user/edit' do
+  @user = User.find(session[:user_id])
+  erb :"login/edit"
+end
+
+post '/user/update' do
+  @user = User.find(session[:user_id])
+
+  if params['new_mdp'] === params['conf_new_mdp']
+    @user.update(password_digest: BCrypt::Password.create(params['new_mdp']))
+    @user.save
+    redirect '/'
+  else
+    @err = "Votre confirmation de mot de passe n'est pas identique a votre nouveau mot de passe."
+  end
+
+end
+
 get '/logout' do
   session.clear
   redirect '/login'

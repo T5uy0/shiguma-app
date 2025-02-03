@@ -9,6 +9,7 @@ CONFIG_FOLDER = './config' unless defined?(CONFIG_FOLDER)
 
 require 'sinatra'
 require 'sinatra/activerecord'
+require 'chartkick'
 require 'dotenv/load'
 require "#{CONFIG_FOLDER}/logger"
 require "#{SERVICE_FOLDER}/db_connection"
