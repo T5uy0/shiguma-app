@@ -57,8 +57,8 @@ post '/consumptions/store' do
   if consumptions.save
     redirect '/'
   else
-    @err = "Erreur : #{meal.errors.full_messages.join(", ")}"
-    erb :'meal/create'
+    @err = "Erreur : #{consumptions.errors.full_messages.join(", ")}"
+    redirect '/consumptions/create'
   end
 end
 
