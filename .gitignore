@@ -186,6 +186,7 @@ mongoid.yml
 .env
 /logs/*.log
 files
+/public/img
 
 #Mac
 .DS_Store

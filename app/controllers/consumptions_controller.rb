@@ -61,3 +61,42 @@ post '/consumptions/store' do
     erb :'meal/create'
   end
 end
+
+get '/consumptions/:consumption_id/delete' do
+ 
+  user = User.find(session[:user_id])
+  consumption = user.consumptions.find_by(id: params[:consumption_id])
+
+  if consumption.nil?
+    erb :"error/404"
+  else
+    consumption.delete()
+    redirect '/'
+  end
+end
+
+get '/consumptions/:consumption_id/edit' do
+  user = User.find(session[:user_id])
+  @consumption = user.consumptions.find_by(id: params[:consumption_id])
+
+  if @consumption.nil?
+    erb :"error/404"
+  else
+    @meals = Meal.where(is_active:1)
+    erb :"consumption/edit"
+  end
+end
+
+post '/consumptions/:consumption_id/update' do
+  user = User.find(session[:user_id])
+  consumption = user.consumptions.find_by(id: params[:consumption_id])
+
+  consumption.update(meal_id: params['meal'],quantity: params['quantity'])
+
+  if consumption.save
+    redirect '/'
+  else
+    @err = "Erreur : #{consumption.errors.full_messages.join(", ")}"
+    erb :'consumption/edit'
+  end
+end
