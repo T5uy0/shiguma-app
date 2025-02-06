@@ -69,7 +69,7 @@ end
 
 def register_user(name, email, password, session)
   unless ValidateEmail.valid?(email)
-    session[:error] = 'Un problème est survenu, veuillez essayer plus tard'
+    session[:error] = 'Email et/ou mot de passe (min 8 cara.) est incorrect.'
     return false
   end
 
