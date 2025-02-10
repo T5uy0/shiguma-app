@@ -106,12 +106,14 @@ rerun app.rb
 ├── app
 │   ├── controllers
 │   │   ├── consumptions_controller.rb
+│   │   ├── masses_controller.rb
 │   │   ├── meals_controller.rb
 │   │   └── users_controller.rb
 │   ├── middlewares
 │   │   └── auth.rb
 │   ├── models
 │   │   ├── consumption.rb
+│   │   ├── mass.rb
 │   │   ├── meal.rb
 │   │   └── user.rb
 │   ├── services
@@ -119,12 +121,21 @@ rerun app.rb
 │   └── views
 │       ├── consumption
 │       │   ├── create.erb
+│       │   ├── edit.erb
 │       │   └── index.erb
+│       ├── error
+│       │   └── 404.erb
 │       ├── layout.erb
 │       ├── login
+│       │   ├── edit.erb
+│       │   └── index.erb
+│       ├── mass
+│       │   ├── create.erb
+│       │   ├── edit.erb
 │       │   └── index.erb
 │       ├── meal
 │       │   ├── create.erb
+│       │   ├── edit.erb
 │       │   └── index.erb
 │       └── register
 │           └── index.erb
@@ -144,14 +155,53 @@ rerun app.rb
 │   │   ├── 20250123091537_create_meals_table.rb
 │   │   ├── 20250123091653_create_consuptions.rb
 │   │   ├── 20250125192659_add_column_meal.rb
-│   │   └── 20250126113654_add_is_default_meal.rb
+│   │   ├── 20250126113654_add_is_default_meal.rb
+│   │   ├── 20250130084833_create_mass_table.rb
+│   │   └── 20250206075609_add_way_field_img_on_meal.rb
 │   └── schema.rb
-└── logs
-    ├── 2025-01-23.log
-    ├── 2025-01-24.log
-    ├── 2025-01-25.log
-    ├── 2025-01-26.log
-    └── 2025-01-27.log
+├── logs
+│   ├── 2025-01-23.log
+│   ├── 2025-01-24.log
+│   ├── 2025-01-25.log
+│   ├── 2025-01-26.log
+│   ├── 2025-01-27.log
+│   ├── 2025-01-30.log
+│   ├── 2025-02-01.log
+│   ├── 2025-02-03.log
+│   ├── 2025-02-04.log
+│   └── 2025-02-06.log
+└── public
+    └── img
+        ├── Ananas.webp
+        ├── Aubergine.jpg
+        ├── Avocat.jpg
+        ├── Banane.avif
+        ├── Brocoli.jpg
+        ├── Carotte.jpg
+        ├── Cerise.jpg
+        ├── Chou.jpg
+        ├── Choufleur.jpg
+        ├── Concombre.jpg
+        ├── Courgette.jpg
+        ├── Epinard.jpg
+        ├── Fraise.jpg
+        ├── Haricot.jpg
+        ├── Kiwi.jpg
+        ├── Laitue.jpeg
+        ├── Mangue.webp
+        ├── Oignon.png
+        ├── Orange.jpg
+        ├── Pasteque.webp
+        ├── Patate_douce.avif
+        ├── Peche.jpg
+        ├── Petit_poid.png
+        ├── Poire.webp
+        ├── Poivron.jpg
+        ├── Pomme.avif
+        ├── Pomme_de_terre.jpg
+        ├── Radis.png
+        ├── Raisin.jpg
+        └── Tomate.png
 ```
 
 ## Contact
