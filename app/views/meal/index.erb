@@ -8,7 +8,8 @@
                 <thead>
                     <tr>
                         <th class="p-2 border border-gray-300">Nom de l'ingrédiant</th>
-                        <th class="p-2 border border-gray-300">kcal par portion</th>
+                        <th class="p-2 border border-gray-300">Kcal par portion</th>
+                        <th class="p-2 border border-gray-300">Image</th>
                         <th class="p-2 border border-gray-300">Option</th>
                     </tr>
                 </thead>
@@ -17,6 +18,7 @@
                         <tr>
                             <th class="border border-gray-300"><%= meal.name %></th>
                             <th class="border border-gray-300"><%= meal.calories %></th>
+                            <th class="border border-gray-300"><img src="<%= meal.way_img %>" alt="<%= meal.name %>"></th>
                             <th class="text-start border border-gray-300">
                                 <% if !meal.is_default == true %>
                                     <a href="/meals/<%= meal.id %>/edit"><i class="fa-solid fa-pencil"></i></a>
