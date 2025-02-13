@@ -11,7 +11,7 @@
 # It's strongly recommended that you check this file into your version control system.
 
 ActiveRecord::Schema[8.0].define(version: 2025_02_06_075609) do
-  create_table "consumptions", charset: "utf8mb4", collation: "utf8mb4_uca1400_ai_ci", force: :cascade do |t|
+  create_table "consumptions", charset: "utf8mb4", collation: "utf8mb4_general_ci", force: :cascade do |t|
     t.bigint "user_id"
     t.bigint "meal_id"
     t.integer "quantity", default: 1, null: false
@@ -22,7 +22,7 @@ ActiveRecord::Schema[8.0].define(version: 2025_02_06_075609) do
     t.index ["user_id"], name: "index_consumptions_on_user_id"
   end
 
-  create_table "masses", charset: "utf8mb4", collation: "utf8mb4_uca1400_ai_ci", force: :cascade do |t|
+  create_table "masses", charset: "utf8mb4", collation: "utf8mb4_general_ci", force: :cascade do |t|
     t.bigint "user_id"
     t.integer "mass", null: false
     t.datetime "created_at", null: false
@@ -30,7 +30,7 @@ ActiveRecord::Schema[8.0].define(version: 2025_02_06_075609) do
     t.index ["user_id"], name: "index_masses_on_user_id"
   end
 
-  create_table "meals", charset: "utf8mb4", collation: "utf8mb4_uca1400_ai_ci", force: :cascade do |t|
+  create_table "meals", charset: "utf8mb4", collation: "utf8mb4_general_ci", force: :cascade do |t|
     t.string "name", null: false
     t.integer "calories", null: false
     t.bigint "user_id"
@@ -42,7 +42,7 @@ ActiveRecord::Schema[8.0].define(version: 2025_02_06_075609) do
     t.index ["user_id"], name: "index_meals_on_user_id"
   end
 
-  create_table "users", charset: "utf8mb4", collation: "utf8mb4_uca1400_ai_ci", force: :cascade do |t|
+  create_table "users", charset: "utf8mb4", collation: "utf8mb4_general_ci", force: :cascade do |t|
     t.string "name", null: false
     t.string "email", null: false
     t.string "password_digest", null: false
