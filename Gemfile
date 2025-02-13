@@ -3,7 +3,9 @@
 source 'https://rubygems.org'
 
 # gem "rails"
-
+# 
+ruby '3.3.6'
+gem 'sinatra'
 gem 'activerecord'
 gem 'mysql2'
 gem 'rake'
