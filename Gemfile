@@ -11,6 +11,8 @@ gem 'mysql2'
 gem 'rake'
 gem 'sinatra-activerecord'
 
+gem "puma"
+
 gem 'bcrypt'
 
 gem 'i18n'
