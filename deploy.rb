@@ -1,1 +1,0 @@
-set :bundle_without, [:development, :test]

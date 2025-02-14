@@ -1,5 +1,0 @@
-name = "shiguma-app"
-type = "webpack"
-account_id = "77dc8a03d34a5f4bd393f94df2899e139f46a"
-workers_dev = true
-compatibility_date = "2024-02-14"
