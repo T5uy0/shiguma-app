@@ -18,7 +18,7 @@ require 'i18n'
 I18n.load_path << 'config/locales/fr.yml'
 I18n.default_locale = :fr
 
-set :environment, ENV.fetch('RACK_ENV') || 'development'
+set :environment, 'production'
 set :views, File.join(VIEWS_FOLDER)
 set :logger, $logger
 
