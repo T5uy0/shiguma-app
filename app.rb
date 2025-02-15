@@ -17,7 +17,7 @@ require "#{SERVICE_FOLDER}/db_connection"
 require 'i18n'
 
 # Définir le port correctement pour Render
-set :port, ENV['PORT'] || 4567
+set :port, 4000
 set :bind, '0.0.0.0' # Permet d'écouter toutes les connexions
 
 I18n.load_path << 'config/locales/fr.yml'

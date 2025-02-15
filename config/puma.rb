@@ -6,10 +6,10 @@ threads_count = ENV.fetch('MAX_THREADS', 5).to_i
 threads threads_count, threads_count
 
 # Définition du port (Render assigne un port dynamique)
-port 10000
+port 4000
 
 # Lier le serveur à toutes les interfaces réseau
-bind "tcp://0.0.0.0:#{ENV.fetch('PORT', 10000)}"
+bind "tcp://0.0.0.0:#{ENV.fetch('PORT', 4000)}"
 
 # Définition de l'environnement
 environment ENV.fetch('RACK_ENV', 'production')
