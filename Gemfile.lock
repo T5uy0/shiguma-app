@@ -90,7 +90,7 @@ DEPENDENCIES
   groupdate
   i18n
   mysql2
-  puma
+  puma (~> 6.0)
   rake
   rerun
   sinatra-activerecord

@@ -16,7 +16,7 @@ gem 'i18n'
 gem 'chartkick'
 gem 'groupdate' # (optionnel pour grouper par période)
 gem 'dotenv'
-gem 'puma'
+gem 'puma','~> 6.0'
 
 group :development, :test do
   gem 'rerun'
