@@ -93,6 +93,7 @@ DEPENDENCIES
   puma (~> 6.0)
   rake
   rerun
+  sinatra
   sinatra-activerecord
 
 BUNDLED WITH
