@@ -7,6 +7,7 @@ source 'https://rubygems.org'
 gem 'activerecord'
 gem 'mysql2'
 gem 'rake'
+gem 'sinatra'
 gem 'sinatra-activerecord'
 
 gem 'bcrypt'
