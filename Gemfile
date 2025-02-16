@@ -10,6 +10,7 @@ gem 'rake'
 gem 'sinatra'
 gem 'sinatra-contrib'
 gem 'puma'
+gem 'rackup'
 gem 'sinatra-activerecord'
 
 gem 'bcrypt'
