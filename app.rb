@@ -17,7 +17,7 @@ require "#{SERVICE_FOLDER}/db_connection"
 require 'i18n'
 
 # Définir le port correctement pour Render
-set :port, 4000
+set :port, 4567
 set :bind, '0.0.0.0' # Permet d'écouter toutes les connexions
 
 I18n.load_path << 'config/locales/fr.yml'
@@ -35,6 +35,11 @@ Dir[File.join(MIDDLEWARES_FOLDER, '*.rb')].sort.each { |file| require file }
 
 configure do
   enable :sessions
+end
+
+configure :production do
+  set :show_exceptions, false   # Désactive l'affichage des erreurs en prod
+  set :logging, true            # Active les logs
 end
 
 use Auth
