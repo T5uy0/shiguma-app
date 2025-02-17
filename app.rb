@@ -17,13 +17,13 @@ require "#{SERVICE_FOLDER}/db_connection"
 require 'i18n'
 
 # Définir le port correctement pour Render
-set :port, 4567
+set :port, ENV.fetch('PORT', 4567)
 set :bind, '0.0.0.0' # Permet d'écouter toutes les connexions
 
 I18n.load_path << 'config/locales/fr.yml'
 I18n.default_locale = :fr
 
-set :environment, ENV['RACK_ENV'] || 'development'
+set :environment, (ENV['RACK_ENV'] || 'development').to_sym
 set :views, File.join(VIEWS_FOLDER)
 set :logger, $logger
 
@@ -38,8 +38,8 @@ configure do
 end
 
 configure :production do
-  set :show_exceptions, false   # Désactive l'affichage des erreurs en prod
-  set :logging, true            # Active les logs
+  set :show_exceptions, false
+  set :logging, false  # Désactive les logs en production pour éviter d’exposer des données
 end
 
 use Auth

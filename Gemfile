@@ -18,7 +18,7 @@ gem 'bcrypt'
 gem 'i18n'
 
 gem 'chartkick'
-gem 'groupdate' # (optionnel pour grouper par période)
+gem 'groupdate'
 gem 'dotenv'
 
 group :development, :test do
