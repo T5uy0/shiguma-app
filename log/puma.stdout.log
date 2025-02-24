@@ -3470,3 +3470,9 @@
 [17510] - Gracefully shutting down workers...
 [17510] === puma shutdown: 2025-02-24 08:50:27 +0100 ===
 [17510] - Goodbye!
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 15274
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 15275
+[20676] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[20675] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 20676) booted in 0.05s, phase: 0
+[23418] - Worker 0 (PID: 20675) booted in 0.06s, phase: 0
