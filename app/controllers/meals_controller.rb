@@ -29,7 +29,7 @@ post '/meals/store' do
   )
 
   if meal.save
-    redirect '/meals/index', 302, { "location" => "/meals/index" }
+    redirect '/meals/index'
   else
     @err = "Erreur : #{meal.errors.full_messages.join(", ")}"
     erb :'meal/create'
@@ -44,7 +44,7 @@ get '/meals/:meal_id/delete' do
     erb :"error/404"
   else
     meal.update(is_active: 0)
-    redirect '/meals/index', 302, { "location" => "/meals/index" }
+    redirect '/meals/index'
   end
 end
 
@@ -66,7 +66,7 @@ post '/meals/:meal_id/update' do
   meal.update(name: params['name'],calories: params['calories'])
 
   if meal.save
-    redirect '/meals/index', 302, { "location" => "/meals/index" }
+    redirect '/meals/index'
   else
     @err = "Erreur : #{meal.errors.full_messages.join(", ")}"
     erb :'meal/edit'

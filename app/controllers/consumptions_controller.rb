@@ -55,7 +55,7 @@ post '/consumptions/store' do
   consumptions = user.consumptions.create(meal: meal, quantity: params[:quantity], consumed_at: Time.now)
 
   if consumptions.save
-    redirect '/', 302, { "location" => "/" }
+    redirect '/'
   else
     @err = "Erreur : #{consumptions.errors.full_messages.join(", ")}"
     redirect '/consumptions/create', 302, { "location" => "/consumptions/create" }
@@ -71,7 +71,7 @@ get '/consumptions/:consumption_id/delete' do
     erb :"error/404"
   else
     consumption.delete()
-    redirect '/', 302, { "location" => "/" }
+    redirect '/'
   end
 end
 
@@ -94,7 +94,7 @@ post '/consumptions/:consumption_id/update' do
   consumption.update(meal_id: params['meal'],quantity: params['quantity'])
 
   if consumption.save
-    redirect '/', 302, { "location" => "/" }
+    redirect '/'
   else
     @err = "Erreur : #{consumption.errors.full_messages.join(", ")}"
     erb :'consumption/edit'

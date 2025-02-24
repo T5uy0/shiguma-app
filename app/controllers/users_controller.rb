@@ -9,7 +9,7 @@ end
 
 post '/login' do
   if check_login(params[:email], params[:password], session)
-    redirect '/', 302, { "location" => "/" }
+    redirect '/'
   else
     redirect '/login', 302, { "location" => "/login" }
   end
@@ -38,7 +38,7 @@ post '/user/update' do
   if params['new_mdp'] === params['conf_new_mdp']
     @user.update(password_digest: BCrypt::Password.create(params['new_mdp']))
     @user.save
-    redirect '/', 302, { "location" => "/" }
+    redirect '/'
   else
     @err = "Votre confirmation de mot de passe n'est pas identique a votre nouveau mot de passe."
   end
