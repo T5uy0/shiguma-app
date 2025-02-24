@@ -1,0 +1,21 @@
+development:
+  adapter: mysql2
+  encoding: utf8mb4
+  reconnect: true
+  database: <%= ENV['DATABASE_NAME'] %>
+  username: <%= ENV['DATABASE_USERNAME'] %>
+  password: <%= ENV['DATABASE_PSW'] %>
+  host: <%= ENV['DATABASE_HOST'] %>
+  port: <%= ENV['DATABASE_PORT'] %>
+
+production:
+  adapter: mysql2
+  encoding: utf8mb4
+  reconnect: false
+  username: <%= ENV['DATABASE_USERNAME'] %>
+  collation: utf8mb4_general_ci
+  password: <%= ENV['DATABASE_PSW'] %>
+  database: <%= ENV['DATABASE_NAME'] %>
+  host: <%= ENV['DATABASE_HOST'] %>
+  port: <%= ENV['DATABASE_PORT'] %>
+  pool: 5

@@ -23,6 +23,7 @@ gem 'dotenv'
 
 gem 'nokogiri'
 gem 'valid_email'
+gem 'pg'
 
 group :development, :test do
   gem 'rerun'
