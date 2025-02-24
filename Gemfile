@@ -21,6 +21,9 @@ gem 'chartkick'
 gem 'groupdate'
 gem 'dotenv'
 
+gem 'nokogiri'
+gem 'valid_email'
+
 group :development, :test do
   gem 'rerun'
 end

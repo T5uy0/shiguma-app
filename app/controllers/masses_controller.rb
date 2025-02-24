@@ -25,7 +25,7 @@ post '/masses/store' do
   )
 
   if mass.save
-    redirect '/masses/index'
+    redirect '/masses/index', 302, { "location" => "/masses/index" }
   else
     @err = "Erreur : Vous ne pouvez pas pesé #{mass.mass} kg"
     erb :'mass/create'
@@ -40,7 +40,7 @@ get '/masses/:mass_id/delete' do
     erb :"error/404"
   else
     mass.destroy()
-    redirect '/masses/index'
+    redirect '/masses/index', 302, { "location" => "/masses/index" }
   end
 end
 
@@ -58,6 +58,6 @@ post '/masses/:mass_id/update' do
     erb :"error/404"
   else
     mass.update(mass: params['mass'])
-    redirect '/masses/index'
+    redirect '/masses/index', 302, { "location" => "/masses/index" }
   end
 end

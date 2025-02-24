@@ -8,9 +8,9 @@ class Auth
     session = env['rack.session']
 
     if session[:user_id].nil? && !['/login', '/register'].include?(request.path)
-      return [302, { 'Location' => '/login' }, []]
+      return [302, { 'location' => '/login' }, []]
     elsif !session[:user_id].nil? && ['/login', '/register'].include?(request.path)
-      [302, { 'Location' => '/' }, []]
+      [302, { 'location' => '/' }, []]
     end
 
     @app.call(env)
