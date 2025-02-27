@@ -2,6 +2,10 @@
 # exit on error
 set -o errexit
 
+if [[ -z "$DATABASE_NAME" || -z "$DATABASE_USER" || -z "$DATABASE_PASSWORD" || -z "$DATABASE_HOST" ]]; then
+  echo "❌ ERREUR : Une ou plusieurs variables d'environnement ne sont pas définies."
+  exit 1
+fi
 
 cat <<EOF > config/database.yml
 production:
