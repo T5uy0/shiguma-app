@@ -14,5 +14,5 @@ production:
   host: ${DATABASE_HOST}
   port: ${DATABASE_PORT:-22647}
 EOF
-bundle binstubs bundler --force
+
 bundle install
