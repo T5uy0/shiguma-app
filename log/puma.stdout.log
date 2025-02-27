@@ -3476,3 +3476,1417 @@
 [20675] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
 [23418] - Worker 1 (PID: 20676) booted in 0.05s, phase: 0
 [23418] - Worker 0 (PID: 20675) booted in 0.06s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 20675
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 20676
+[21507] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[21506] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 21507) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 21506) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 21506
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 21507
+[23418] ! Out-of-sync worker list, no 21507 worker
+[21517] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[21518] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 21517) booted in 0.08s, phase: 0
+[23418] - Worker 0 (PID: 21518) booted in 0.06s, phase: 0
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 21517
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 21518
+[23418] ! Out-of-sync worker list, no 21518 worker
+[24830] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 24830) booted in 0.88s, phase: 0
+[24827] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 24827) booted in 0.96s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 24827
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 24830
+[23418] ! Out-of-sync worker list, no 24827 worker
+[23418] ! Out-of-sync worker list, no 24830 worker
+[25875] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[25874] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 25874) booted in 0.44s, phase: 0
+[23418] - Worker 1 (PID: 25875) booted in 0.44s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 25874
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 25875
+[25950] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[25951] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 25951) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 25950) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 25950
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 25951
+[26127] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26126] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 26127) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 26126) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26126
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26127
+[26578] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26579] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 26579) booted in 0.02s, phase: 0
+[23418] - Worker 1 (PID: 26578) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26578
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26579
+[26606] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26605] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 26605) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 26606) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26605
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26606
+[26615] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26616] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 26615) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 26616) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26615
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26616
+[26633] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26634] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 26633) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 26634) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26633
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26634
+[26648] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26649] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 26648) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 26649) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26648
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26649
+[26654] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26655] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 26654) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 26655) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26654
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26655
+[26660] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26661] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 26661) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 26660) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26660
+[26688] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 26688) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26688
+[26702] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 26702) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26661
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26702
+[26720] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26721] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 26720) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 26721) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26720
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26721
+[26725] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26726] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 26726) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 26725) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26725
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26726
+[26778] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26779] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 26778) booted in 0.04s, phase: 0
+[23418] - Worker 1 (PID: 26779) booted in 0.04s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26778
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26779
+[26812] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26813] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 26812) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 26813) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26812
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26813
+[26821] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26822] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 26821) booted in 0.0s, phase: 0
+[23418] - Worker 1 (PID: 26822) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26821
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26822
+[26823] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26824] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 26824) booted in 0.0s, phase: 0
+[23418] - Worker 0 (PID: 26823) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26823
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26824
+[26841] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26840] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 26841) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 26840) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26840
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26841
+[26849] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26850] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 26849) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 26850) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26849
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26850
+[26856] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26857] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 26857) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 26856) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26856
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26857
+[26858] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26859] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 26858) booted in 0.0s, phase: 0
+[23418] - Worker 1 (PID: 26859) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26858
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26859
+[26868] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26867] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 26868) booted in 0.0s, phase: 0
+[23418] - Worker 0 (PID: 26867) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26867
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26868
+[26876] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26877] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 26877) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 26876) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26876
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26877
+[26883] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26884] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 26883) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 26884) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26883
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26884
+[26903] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26904] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 26904) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 26903) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26903
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26904
+[26908] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26907] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 26907) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 26908) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26907
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26908
+[26909] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 26909) booted in 0.0s, phase: 0
+[26910] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 26910) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26909
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26910
+[26914] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26913] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 26914) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 26913) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26913
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26914
+[26916] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 26916) booted in 0.01s, phase: 0
+[26917] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 26917) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26916
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26917
+[26924] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26925] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 26924) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 26925) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26924
+[26931] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 26931) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26931
+[26932] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 26932) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26932
+[26933] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 26933) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26933
+[26947] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 26947) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26947
+[26956] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 26956) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26925
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26956
+[26961] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26962] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 26961) booted in 0.03s, phase: 0
+[23418] - Worker 1 (PID: 26962) booted in 0.03s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26961
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26962
+[26970] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26969] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 26969) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 26970) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26969
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26970
+[26989] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26990] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 26989) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 26990) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26989
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26990
+[26997] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[26996] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 26997) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 26996) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 26996
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 26997
+[27007] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27008] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 27008) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 27007) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27007
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27008
+[27011] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27012] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 27012) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 27011) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27011
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27012
+[27016] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27017] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 27017) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 27016) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27016
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27017
+[27019] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27020] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 27019) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 27020) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27019
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27020
+[27035] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27036] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 27035) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 27036) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27035
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27036
+[27041] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27040] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 27041) booted in 0.02s, phase: 0
+[23418] - Worker 0 (PID: 27040) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27040
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27041
+[27048] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27049] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 27048) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 27049) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27048
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27049
+[27056] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27057] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 27056) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 27057) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27056
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27057
+[27061] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27062] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 27061) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 27062) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27061
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27062
+[27068] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27069] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 27068) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 27069) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27068
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27069
+[27071] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27072] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 27072) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 27071) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27071
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27072
+[27075] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27076] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 27075) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 27076) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27075
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27076
+[27111] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27110] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 27111) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 27110) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27110
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27111
+[27117] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27118] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 27117) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 27118) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27117
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27118
+[27142] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27143] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 27143) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 27142) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27142
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27143
+[27164] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27163] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 27163) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 27164) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27163
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27164
+[27172] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27173] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 27173) booted in 0.04s, phase: 0
+[23418] - Worker 0 (PID: 27172) booted in 0.04s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27172
+[27177] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 27177) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27177
+[27227] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 27227) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27173
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27227
+[27238] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27237] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 27237) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 27238) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27237
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27238
+[27266] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27265] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 27265) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 27266) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27265
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27266
+[27271] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27272] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 27272) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 27271) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27271
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27272
+[27275] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27274] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 27275) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 27274) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27274
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27275
+[27280] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27281] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 27280) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 27281) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27280
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27281
+[27288] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27289] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 27289) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 27288) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27288
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27289
+[27322] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27321] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 27321) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 27322) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27321
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27322
+[27360] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27359] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 27359) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 27360) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27359
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27360
+[27378] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27379] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 27379) booted in 0.02s, phase: 0
+[23418] - Worker 0 (PID: 27378) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27378
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27379
+[27396] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27397] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 27396) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 27397) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27396
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27397
+[27401] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27400] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 27400) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 27401) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27400
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27401
+[27406] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27405] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 27406) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 27405) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27405
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27406
+[27412] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27411] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 27412) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 27411) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27411
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27412
+[27428] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27427] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 27427) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 27428) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27427
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27428
+[27439] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27440] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 27439) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 27440) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27439
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27440
+[27466] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27467] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 27467) booted in 0.02s, phase: 0
+[23418] - Worker 0 (PID: 27466) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27466
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27467
+[27483] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27482] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 27483) booted in 0.02s, phase: 0
+[23418] - Worker 0 (PID: 27482) booted in 0.03s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27482
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27483
+[27489] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27488] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 27489) booted in 0.0s, phase: 0
+[23418] - Worker 0 (PID: 27488) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27488
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27489
+[27497] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27496] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 27497) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 27496) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27496
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27497
+[27508] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27509] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 27509) booted in 0.02s, phase: 0
+[23418] - Worker 0 (PID: 27508) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27508
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27509
+[27512] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27513] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 27513) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 27512) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27512
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27513
+[27535] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27534] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 27534) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 27535) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27534
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27535
+[27541] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 27541) booted in 0.01s, phase: 0
+[27542] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 27542) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27541
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27542
+[23418] ! Out-of-sync worker list, no 27541 worker
+[23418] ! Out-of-sync worker list, no 27542 worker
+[27555] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27554] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 27554) booted in 0.07s, phase: 0
+[23418] - Worker 1 (PID: 27555) booted in 0.06s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27554
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27555
+[27679] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[27678] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 27679) booted in 0.05s, phase: 0
+[23418] - Worker 0 (PID: 27678) booted in 0.09s, phase: 0
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 27679
+[36073] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 36073) booted in 0.36s, phase: 0
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 36073
+[41031] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41031) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 27678
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41031
+[41114] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41115] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41114) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 41115) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41114
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41115
+[41131] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41132] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41131) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 41132) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41131
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41132
+[41138] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41139] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41138) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41139) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41138
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41139
+[41181] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41180] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41181) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 41180) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41180
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41181
+[41187] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41188] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41188) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 41187) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41187
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41188
+[41192] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41193] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41193) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 41192) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41192
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41193
+[41198] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41199] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41199) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 41198) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41198
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41199
+[41204] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41205] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41205) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41204) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41204
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41205
+[41207] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41208] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41207) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41208) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41207
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41208
+[41215] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41216] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41216) booted in 0.02s, phase: 0
+[23418] - Worker 0 (PID: 41215) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41215
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41216
+[41220] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41219] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41220) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 41219) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41219
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41220
+[41223] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41224] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41223) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41224) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41223
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41224
+[41232] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41233] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41232) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41233) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41232
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41233
+[41259] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41260] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41259) booted in 0.02s, phase: 0
+[23418] - Worker 1 (PID: 41260) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41259
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41260
+[41268] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41267] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41267) booted in 0.02s, phase: 0
+[23418] - Worker 1 (PID: 41268) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41267
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41268
+[41270] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41271] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41270) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41271) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41270
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41271
+[41275] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41276] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41275) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41276) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41275
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41276
+[41286] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41285] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41285) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41286) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41285
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41286
+[41291] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41292] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41291) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41292) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41291
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41292
+[41300] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41301] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41301) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 41300) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41300
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41301
+[41304] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41305] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41304) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41305) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41304
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41305
+[41320] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41321] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41321) booted in 0.02s, phase: 0
+[23418] - Worker 0 (PID: 41320) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41320
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41321
+[41332] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41333] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41333) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 41332) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41332
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41333
+[41341] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41342] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41341) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41342) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41341
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41342
+[41349] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41350] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41349) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41350) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41349
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41350
+[41363] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41362] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41363) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 41362) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41362
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41363
+[41368] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41369] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41369) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 41368) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41368
+[41380] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41380) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41380
+[41384] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41384) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41369
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41384
+[41401] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41400] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41401) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 41400) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41400
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41401
+[41414] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41415] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41414) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41415) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41414
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41415
+[41418] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41419] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41418) booted in 0.02s, phase: 0
+[23418] - Worker 1 (PID: 41419) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41418
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41419
+[41424] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41423] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41424) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 41423) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41423
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41424
+[41426] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41427] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41426) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41427) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41426
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41427
+[41444] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41445] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41445) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 41444) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41444
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41445
+[41457] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41457) booted in 0.0s, phase: 0
+[41458] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41458) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41457
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41458
+[41480] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41481] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41481) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 41480) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41480
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41481
+[41484] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41485] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41484) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41485) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41484
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41485
+[41518] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41517] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41517) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41518) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41517
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41518
+[41538] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41537] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41538) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 41537) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41537
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41538
+[41540] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41541] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41540) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41541) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41540
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41541
+[41552] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41551] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41552) booted in 0.0s, phase: 0
+[23418] - Worker 0 (PID: 41551) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41551
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41552
+[41564] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41565] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41564) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41565) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41564
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41565
+[41574] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41575] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41575) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 41574) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41574
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41575
+[41582] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41581] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41581) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41582) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41581
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41582
+[41584] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41585] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41584) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41585) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41584
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41585
+[41588] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41589] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41588) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41589) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41588
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41589
+[41597] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41598] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41597) booted in 0.0s, phase: 0
+[23418] - Worker 0 (PID: 41598) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41597
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41598
+[41604] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41605] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41605) booted in 0.02s, phase: 0
+[23418] - Worker 0 (PID: 41604) booted in 0.03s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41604
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41605
+[41632] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41631] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41631) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41632) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41631
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41632
+[41633] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41633) booted in 0.01s, phase: 0
+[41634] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41634) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41633
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41634
+[41641] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41642] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41642) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 41641) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41641
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41642
+[41678] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41677] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41677) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41678) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41677
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41678
+[41684] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41685] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41684) booted in 0.02s, phase: 0
+[23418] - Worker 1 (PID: 41685) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41684
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41685
+[41707] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41708] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41708) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 41707) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41707
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41708
+[41710] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41709] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41710) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 41709) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41709
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41710
+[41712] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41711] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41711) booted in 0.02s, phase: 0
+[23418] - Worker 1 (PID: 41712) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41711
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41712
+[41715] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41716] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41715) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41716) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41715
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41716
+[41720] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41719] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41720) booted in 0.02s, phase: 0
+[23418] - Worker 0 (PID: 41719) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41719
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41720
+[41737] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41738] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41738) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 41737) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41737
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41738
+[41761] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41760] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41760) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41761) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41760
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41761
+[41769] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41770] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41769) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41770) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41769
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41770
+[41799] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41798] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41799) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41798) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41798
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41799
+[41837] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41836] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41836) booted in 0.02s, phase: 0
+[23418] - Worker 1 (PID: 41837) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41836
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41837
+[41843] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41844] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41844) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 41843) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41843
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41844
+[41863] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41864] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41864) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 41863) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41863
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41864
+[41893] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41892] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41892) booted in 0.02s, phase: 0
+[23418] - Worker 1 (PID: 41893) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41892
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41893
+[41904] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41903] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 41903) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 41904) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41903
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41904
+[41921] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41922] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41921) booted in 0.02s, phase: 0
+[23418] - Worker 1 (PID: 41922) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41921
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41922
+[41947] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41948] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41947) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41948) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41947
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41948
+[41956] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41957] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41956) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 41957) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41956
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41957
+[41966] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[41967] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 41966) booted in 0.0s, phase: 0
+[23418] - Worker 1 (PID: 41967) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 41966
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 41967
+[46173] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[46172] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 46172) booted in 0.02s, phase: 0
+[23418] - Worker 1 (PID: 46173) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 46172
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 46173
+[46588] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[46589] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 46589) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 46588) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 46588
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 46589
+[54607] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54606] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 54607) booted in 0.03s, phase: 0
+[23418] - Worker 0 (PID: 54606) booted in 0.03s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54606
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54607
+[54634] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54635] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 54634) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 54635) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54634
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54635
+[54640] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 54640) booted in 0.01s, phase: 0
+[54641] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 54641) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54640
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54641
+[54658] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54659] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 54658) booted in 0.03s, phase: 0
+[23418] - Worker 1 (PID: 54659) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54658
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54659
+[54661] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54662] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 54661) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 54662) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54661
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54662
+[54665] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54664] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 54665) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 54664) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54664
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54665
+[54689] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54690] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 54689) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 54690) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54689
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54690
+[54693] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 54693) booted in 0.0s, phase: 0
+[54694] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 54694) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54693
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54694
+[54702] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54703] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 54702) booted in 0.0s, phase: 0
+[23418] - Worker 1 (PID: 54703) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54702
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54703
+[54710] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54711] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 54710) booted in 0.0s, phase: 0
+[23418] - Worker 1 (PID: 54711) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54710
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54711
+[54723] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54724] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 54724) booted in 0.02s, phase: 0
+[23418] - Worker 0 (PID: 54723) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54723
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54724
+[54799] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54800] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 54799) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 54800) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54799
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54800
+[54803] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54804] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 54804) booted in 0.0s, phase: 0
+[23418] - Worker 0 (PID: 54803) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54803
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54804
+[54830] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54831] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 54830) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 54831) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54830
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54831
+[54851] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 54851) booted in 0.0s, phase: 0
+[54852] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 54852) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54851
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54852
+[54858] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54859] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 54858) booted in 0.0s, phase: 0
+[23418] - Worker 1 (PID: 54859) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54858
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54859
+[54864] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54865] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 54864) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 54865) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54864
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54865
+[54870] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54871] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 54870) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 54871) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54870
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54871
+[54877] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54876] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 54876) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 54877) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54876
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54877
+[54890] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54891] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 54890) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 54891) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54890
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54891
+[54911] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54912] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 54911) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 54912) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54911
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54912
+[54913] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 54913) booted in 0.0s, phase: 0
+[54914] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 54914) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54913
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54914
+[54919] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54920] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 54919) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 54920) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54919
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54920
+[54924] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54925] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 54924) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 54925) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54924
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54925
+[54929] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54928] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 54928) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 54929) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54928
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54929
+[54933] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54932] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 54933) booted in 0.0s, phase: 0
+[23418] - Worker 0 (PID: 54932) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54932
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54933
+[54942] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54943] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 54942) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 54943) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54942
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54943
+[54947] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54946] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 54946) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 54947) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54946
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54947
+[54950] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54951] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 54950) booted in 0.0s, phase: 0
+[23418] - Worker 1 (PID: 54951) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54950
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54951
+[54953] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54954] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 54953) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 54954) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54953
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54954
+[54956] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54957] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 54957) booted in 0.0s, phase: 0
+[23418] - Worker 0 (PID: 54956) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54956
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54957
+[54967] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54968] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 54967) booted in 0.0s, phase: 0
+[23418] - Worker 1 (PID: 54968) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54967
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54968
+[54974] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[54973] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 54974) booted in 0.0s, phase: 0
+[23418] - Worker 0 (PID: 54973) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 54973
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 54974
+[55018] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55019] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55018) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 55019) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55018
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55019
+[55022] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55023] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55022) booted in 0.0s, phase: 0
+[23418] - Worker 1 (PID: 55023) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55022
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55023
+[55025] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55026] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 55026) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 55025) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55025
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55026
+[55033] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55033) booted in 0.0s, phase: 0
+[55034] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 55034) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55033
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55034
+[55040] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55041] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 55041) booted in 0.0s, phase: 0
+[23418] - Worker 0 (PID: 55040) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55040
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55041
+[55070] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55071] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55070) booted in 0.0s, phase: 0
+[23418] - Worker 1 (PID: 55071) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55070
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55071
+[55080] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55081] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55080) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 55081) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55080
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55081
+[55084] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55084) booted in 0.0s, phase: 0
+[55085] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 55085) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55084
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55085
+[55090] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55091] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55090) booted in 0.0s, phase: 0
+[23418] - Worker 1 (PID: 55091) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55090
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55091
+[55098] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55099] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55098) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 55099) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55098
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55099
+[55114] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55115] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55114) booted in 0.02s, phase: 0
+[23418] - Worker 1 (PID: 55115) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55114
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55115
+[55126] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55127] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 55127) booted in 0.0s, phase: 0
+[23418] - Worker 0 (PID: 55126) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55126
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55127
+[55131] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55132] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55131) booted in 0.0s, phase: 0
+[23418] - Worker 1 (PID: 55132) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55131
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55132
+[55135] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55136] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55135) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 55136) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55135
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55136
+[55177] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55178] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 55178) booted in 0.0s, phase: 0
+[23418] - Worker 0 (PID: 55177) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55177
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55178
+[55182] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55183] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55182) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 55183) booted in 0.02s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55182
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55183
+[55186] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55187] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55186) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 55187) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55186
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55187
+[55191] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55192] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55191) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 55192) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55191
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55192
+[55195] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55196] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55195) booted in 0.0s, phase: 0
+[23418] - Worker 1 (PID: 55196) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55195
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55196
+[55200] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55201] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 55201) booted in 0.0s, phase: 0
+[23418] - Worker 0 (PID: 55200) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55200
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55201
+[55204] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55205] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55204) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 55205) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55204
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55205
+[55207] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55207) booted in 0.0s, phase: 0
+[55208] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 55208) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55207
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55208
+[55209] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55210] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55209) booted in 0.0s, phase: 0
+[23418] - Worker 1 (PID: 55210) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55209
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55210
+[55213] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55214] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55213) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 55214) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55213
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55214
+[55217] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55217) booted in 0.0s, phase: 0
+[55218] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 55218) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55217
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55218
+[55221] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55222] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55221) booted in 0.0s, phase: 0
+[23418] - Worker 1 (PID: 55222) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55221
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55222
+[55227] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55228] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55227) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 55228) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55227
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55228
+[55266] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55267] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 55267) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 55266) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55266
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55267
+[55305] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55306] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55305) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 55306) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55305
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55306
+[55310] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55311] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55310) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 55311) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55310
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55311
+[55314] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55315] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55314) booted in 0.0s, phase: 0
+[23418] - Worker 1 (PID: 55315) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55314
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55315
+[55317] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55318] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 55318) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 55317) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55317
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55318
+[55320] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55320) booted in 0.0s, phase: 0
+[55321] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 55321) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55320
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55321
+[23418] ! Out-of-sync worker list, no 55320 worker
+[55323] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55324] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55323) booted in 0.0s, phase: 0
+[23418] - Worker 1 (PID: 55324) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55323
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55324
+[55342] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55341] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55341) booted in 0.03s, phase: 0
+[23418] - Worker 1 (PID: 55342) booted in 0.03s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55341
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55342
+[55347] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55348] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 55348) booted in 0.0s, phase: 0
+[23418] - Worker 0 (PID: 55347) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55347
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55348
+[55353] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55354] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55353) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 55354) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55353
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55354
+[55418] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55419] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55418) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 55419) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55418
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55419
+[55425] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55426] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55425) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 55426) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55425
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55426
+[55432] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55433] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 55433) booted in 0.01s, phase: 0
+[23418] - Worker 0 (PID: 55432) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55432
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55433
+[55440] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55440) booted in 0.01s, phase: 0
+[55441] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 1 (PID: 55441) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55440
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55441
+[55458] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55457] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55457) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 55458) booted in 0.01s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55457
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55458
+[55464] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55463] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55463) booted in 0.0s, phase: 0
+[23418] - Worker 1 (PID: 55464) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55463
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55464
+[55468] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55469] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55468) booted in 0.0s, phase: 0
+[23418] - Worker 1 (PID: 55469) booted in 0.0s, phase: 0
+[23418] ! Terminating timed out worker (Worker 0 failed to check in within 60 seconds): 55468
+[23418] ! Terminating timed out worker (Worker 1 failed to check in within 60 seconds): 55469
+[55478] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[55479] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[23418] - Worker 0 (PID: 55478) booted in 0.01s, phase: 0
+[23418] - Worker 1 (PID: 55479) booted in 0.0s, phase: 0
