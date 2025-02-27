@@ -19,4 +19,11 @@ production:
   port: ${DATABASE_PORT:-22647}
 EOF
 
+echo "🛠️ Génération du fichier config/database.yml..."
+
+echo $DATABASE_USER
+echo $DATABASE_PASSWORD
+echo $DATABASE_HOST
+echo $DATABASE_PORT
+
 bundle install
