@@ -15,3 +15,5 @@ Session cookie encryptor error: HMAC is invalid
 == Sinatra has ended his set (crowd applauds)
 == Sinatra has ended his set (crowd applauds)
 == Sinatra has ended his set (crowd applauds)
+=== puma startup: 2025-02-27 08:52:34 +0100 ===
+Session cookie encryptor error: HMAC is invalid

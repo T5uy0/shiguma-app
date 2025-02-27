@@ -12,7 +12,7 @@ production:
   username: ${DATABASE_USER}
   password: ${DATABASE_PASSWORD}
   host: ${DATABASE_HOST}
-  port: ${DATABASE_PORT:-3306}
+  port: ${DATABASE_PORT:-22647}
 EOF
 
 bundle install

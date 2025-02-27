@@ -4890,3 +4890,17 @@
 [55479] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
 [23418] - Worker 0 (PID: 55478) booted in 0.01s, phase: 0
 [23418] - Worker 1 (PID: 55479) booted in 0.0s, phase: 0
+=== puma startup: 2025-02-27 08:52:34 +0100 ===
+[57099] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[57100] + Gemfile in context: /Users/julienschneider/Desktop/projet-cpnv/shiguma-app/Gemfile
+[57097] - Worker 0 (PID: 57099) booted in 0.0s, phase: 0
+[57097] - Worker 1 (PID: 57100) booted in 0.0s, phase: 0
+D, [2025-02-27T08:53:02.877371 #57099] DEBUG -- :   [1m[36mUser Load (163.6ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`email` = 'julienschneider964@gmail.com' LIMIT 1[0m
+D, [2025-02-27T08:53:03.549716 #57099] DEBUG -- :   [1m[36mUser Load (172.2ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`email` = 'julienschneider964@gmail.com' LIMIT 1[0m
+D, [2025-02-27T08:53:04.203926 #57099] DEBUG -- :   [1m[36mUser Load (408.4ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` = 2 LIMIT 1[0m
+D, [2025-02-27T08:53:05.189178 #57099] DEBUG -- :   [1m[36mConsumption Load (228.3ms)[0m  [1m[34mSELECT `consumptions`.* FROM `consumptions` WHERE `consumptions`.`user_id` = 2 ORDER BY `consumptions`.`consumed_at` DESC[0m
+D, [2025-02-27T08:53:05.382410 #57099] DEBUG -- :   [1m[36mConsumption Load (169.1ms)[0m  [1m[34mSELECT `consumptions`.* FROM `consumptions` WHERE `consumptions`.`user_id` = 2 ORDER BY `consumptions`.`consumed_at` ASC[0m
+D, [2025-02-27T08:53:06.539401 #57099] DEBUG -- :   [1m[36mMeal Load (467.8ms)[0m  [1m[34mSELECT `meals`.* FROM `meals` WHERE `meals`.`id` = 58 LIMIT 1[0m
+D, [2025-02-27T08:53:06.877556 #57099] DEBUG -- :   [1m[36mMeal Load (323.2ms)[0m  [1m[34mSELECT `meals`.* FROM `meals` WHERE `meals`.`id` = 58 LIMIT 1[0m
+D, [2025-02-27T08:53:07.732432 #57099] DEBUG -- :   [1m[36mMass Load (162.1ms)[0m  [1m[34mSELECT `masses`.* FROM `masses` WHERE `masses`.`user_id` = 2 ORDER BY `masses`.`created_at` ASC[0m
+D, [2025-02-27T08:53:08.067375 #57099] DEBUG -- :   [1m[36mConsumption Exists? (330.2ms)[0m  [1m[34mSELECT 1 AS one FROM `consumptions` WHERE `consumptions`.`user_id` = 2 AND `consumptions`.`consumed_at` BETWEEN '2025-02-26 23:00:00' AND '2025-02-27 22:59:59.999999' LIMIT 1[0m
