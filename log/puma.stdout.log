@@ -4904,3 +4904,13 @@ D, [2025-02-27T08:53:06.539401 #57099] DEBUG -- :   [1m[36mMeal Load (467.8ms)
 D, [2025-02-27T08:53:06.877556 #57099] DEBUG -- :   [1m[36mMeal Load (323.2ms)[0m  [1m[34mSELECT `meals`.* FROM `meals` WHERE `meals`.`id` = 58 LIMIT 1[0m
 D, [2025-02-27T08:53:07.732432 #57099] DEBUG -- :   [1m[36mMass Load (162.1ms)[0m  [1m[34mSELECT `masses`.* FROM `masses` WHERE `masses`.`user_id` = 2 ORDER BY `masses`.`created_at` ASC[0m
 D, [2025-02-27T08:53:08.067375 #57099] DEBUG -- :   [1m[36mConsumption Exists? (330.2ms)[0m  [1m[34mSELECT 1 AS one FROM `consumptions` WHERE `consumptions`.`user_id` = 2 AND `consumptions`.`consumed_at` BETWEEN '2025-02-26 23:00:00' AND '2025-02-27 22:59:59.999999' LIMIT 1[0m
+D, [2025-02-27T10:19:45.610632 #57100] DEBUG -- :   [1m[36mUser Load (172.2ms)[0m  [1m[34mSELECT `users`.* FROM `users` WHERE `users`.`id` = 2 LIMIT 1[0m
+D, [2025-02-27T10:19:46.536282 #57100] DEBUG -- :   [1m[36mConsumption Load (197.6ms)[0m  [1m[34mSELECT `consumptions`.* FROM `consumptions` WHERE `consumptions`.`user_id` = 2 ORDER BY `consumptions`.`consumed_at` DESC[0m
+D, [2025-02-27T10:19:46.730603 #57100] DEBUG -- :   [1m[36mConsumption Load (168.4ms)[0m  [1m[34mSELECT `consumptions`.* FROM `consumptions` WHERE `consumptions`.`user_id` = 2 ORDER BY `consumptions`.`consumed_at` ASC[0m
+D, [2025-02-27T10:19:47.808168 #57100] DEBUG -- :   [1m[36mMeal Load (378.6ms)[0m  [1m[34mSELECT `meals`.* FROM `meals` WHERE `meals`.`id` = 58 LIMIT 1[0m
+D, [2025-02-27T10:19:48.204213 #57100] DEBUG -- :   [1m[36mMeal Load (386.2ms)[0m  [1m[34mSELECT `meals`.* FROM `meals` WHERE `meals`.`id` = 58 LIMIT 1[0m
+D, [2025-02-27T10:19:49.040699 #57100] DEBUG -- :   [1m[36mMass Load (164.0ms)[0m  [1m[34mSELECT `masses`.* FROM `masses` WHERE `masses`.`user_id` = 2 ORDER BY `masses`.`created_at` ASC[0m
+D, [2025-02-27T10:19:49.400137 #57100] DEBUG -- :   [1m[36mConsumption Exists? (350.4ms)[0m  [1m[34mSELECT 1 AS one FROM `consumptions` WHERE `consumptions`.`user_id` = 2 AND `consumptions`.`consumed_at` BETWEEN '2025-02-26 23:00:00' AND '2025-02-27 22:59:59.999999' LIMIT 1[0m
+[57097] - Gracefully shutting down workers...
+[57097] === puma shutdown: 2025-02-27 10:19:58 +0100 ===
+[57097] - Goodbye!
