@@ -15,6 +15,7 @@ require 'dotenv/load'
 require "#{CONFIG_FOLDER}/logger"
 require "#{SERVICE_FOLDER}/db_connection"
 require 'i18n'
+require 'cloudinary'
 
 I18n.load_path << 'config/locales/fr.yml'
 I18n.default_locale = :fr
@@ -28,6 +29,10 @@ DBConnection.instance
 Dir[File.join(CONTROLLERS_FOLDER, '*.rb')].sort.each { |file| require file }
 Dir[File.join(MODELS_FOLDER, '*.rb')].sort.each { |file| require file }
 Dir[File.join(MIDDLEWARES_FOLDER, '*.rb')].sort.each { |file| require file }
+
+if Cloudinary.config.api_key.blank?
+  require './config'
+end
 
 configure do
   enable :sessions

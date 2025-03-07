@@ -13,6 +13,7 @@ gem 'bcrypt'
 
 gem 'i18n'
 
+gem 'cloudinary'
 gem 'chartkick'
 gem 'groupdate' # (optionnel pour grouper par période)
 gem 'dotenv'
