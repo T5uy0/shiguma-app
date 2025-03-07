@@ -18,7 +18,9 @@
                         <tr>
                             <th class="border border-gray-300"><%= meal.name %></th>
                             <th class="border border-gray-300"><%= meal.calories %></th>
-                            <th class="border border-gray-300"><img src="<%= meal.way_img %>" alt="<%= meal.name %>"></th>
+                            
+                            
+                            <th class="border border-gray-300"><img src="<%= Cloudinary::Utils.cloudinary_url(meal.way_img) %>" alt="<%= meal.way_img %>"></th>
                             <th class="text-start border border-gray-300">
                                 <% if !meal.is_default == true %>
                                     <a href="/meals/<%= meal.id %>/edit"><i class="fa-solid fa-pencil"></i></a>
