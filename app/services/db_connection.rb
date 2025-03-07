@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-require 'mongoid'
 require 'active_record'
 
 # Class for the database connection
