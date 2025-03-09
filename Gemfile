@@ -16,7 +16,6 @@ gem 'sinatra-activerecord'
 gem 'bcrypt'
 
 gem 'i18n'
-
 gem 'chartkick'
 gem 'groupdate'
 gem 'dotenv'
