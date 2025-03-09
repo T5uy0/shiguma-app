@@ -181,7 +181,7 @@ build-iPhoneSimulator/
 # End of https://www.toptal.com/developers/gitignore/api/macos,ruby,intellij+all
 
 ## Project file
-database.yml
+#database.yml
 mongoid.yml
 .env
 /logs/*.log
