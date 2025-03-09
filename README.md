@@ -60,7 +60,7 @@ git flow init
 ```bash
 cp config/database.example.yml config/database.yml
 
-cp logs/.env.example logs/.env 
+cp .env.example .env 
 ```
 
 4. Installer les dépendances de MariaDB/MySQL
@@ -147,6 +147,7 @@ rerun app.rb
 │   ├── locales
 │   │   └── fr.yml
 │   └── logger.rb
+├── config.rb
 ├── db
 │   ├── migrate
 │   │   ├── 20250123073427_create_users.rb
@@ -169,7 +170,16 @@ rerun app.rb
 │   ├── 2025-02-01.log
 │   ├── 2025-02-03.log
 │   ├── 2025-02-04.log
-│   └── 2025-02-06.log
+│   ├── 2025-02-06.log
+│   ├── 2025-02-10.log
+│   ├── 2025-02-12.log
+│   ├── 2025-02-13.log
+│   ├── 2025-02-15.log
+│   ├── 2025-02-17.log
+│   ├── 2025-02-24.log
+│   ├── 2025-02-27.log
+│   ├── 2025-03-07.log
+│   └── 2025-03-09.log
 └── public
     └── img
         ├── Ananas.webp
