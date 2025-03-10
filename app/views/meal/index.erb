@@ -16,9 +16,8 @@
                 <tbody>
                     <% @meals.each do |meal| %>
                         <tr>
-                            <th class="border border-gray-300"><%= meal.name %></th>
+                            <th class="border border-gray-300"><a href="/meals/<%= meal.id %>/show"><%= meal.name %></a></th>
                             <th class="border border-gray-300"><%= meal.calories %></th>
-                            
                             
                             <th class="border border-gray-300"><img src="<%= Cloudinary::Utils.cloudinary_url(meal.way_img) %>" alt="<%= meal.way_img %>"></th>
                             <th class="text-start border border-gray-300">

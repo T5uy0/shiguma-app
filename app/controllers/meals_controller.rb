@@ -17,6 +17,17 @@ get '/meals/index' do
   erb :"meal/index"
 end
 
+get '/meals/:meal_id/show' do
+
+  @meal = user.meals.find_by(id: params[:meal_id])
+
+  @meals_is_empty = false
+  if @meal.empty?
+    @meals_is_empty = true
+  end
+  erb :"meal/show"
+end
+
 get '/meals/create' do
   erb :"meal/create"
 end
@@ -25,7 +36,10 @@ post '/meals/store' do
   user = User.find(session[:user_id])
   meal = user.meals.new(
     name: params[:name],
-    calories: params[:calories]
+    calories: params[:calories],
+    protein: params[:protein],
+    glucide: params[:glucide],
+    lipide: params[:lipide]
   )
 
   if meal.save
