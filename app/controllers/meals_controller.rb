@@ -19,12 +19,8 @@ end
 
 get '/meals/:meal_id/show' do
 
-  @meal = user.meals.find_by(id: params[:meal_id])
-
-  @meals_is_empty = false
-  if @meal.empty?
-    @meals_is_empty = true
-  end
+  user = User.find(session[:user_id])
+  @meal = Meal.find_by(id: params[:meal_id])
   erb :"meal/show"
 end
 
