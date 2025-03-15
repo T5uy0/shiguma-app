@@ -3,6 +3,17 @@
     <input class="w-full mb-4 p-2 border border-black rounded-md py-5 space-y-4" name="name" id="name" type="text">
     <label for="calories">Calories (kcal) :</label>
     <input class="w-full mb-4 p-2 border border-black rounded-md py-5 space-y-4" name="calories" id="calories" type="number" min="0" required>
+    
+    <label for="protein">Protein (g) :</label>
+    <input class="w-full mb-4 p-2 border border-black rounded-md py-5 space-y-4" name="protein" id="protein" type="number" min="0" required>
+
+    <label for="glucide">Glucide (g) :</label>
+    <input class="w-full mb-4 p-2 border border-black rounded-md py-5 space-y-4" name="glucide" id="glucide" type="number" min="0" required>
+
+    <label for="lipide">Lipide (g) :</label>
+    <input class="w-full mb-4 p-2 border border-black rounded-md py-5 space-y-4" name="lipide" id="lipide" type="number" min="0" required>
+
+
     <button class="p-2 w-full text-center bg-blue-500 text-white rounded-md" type="submit">valider</button>
     <p><%= @err %></p>
 </form>
