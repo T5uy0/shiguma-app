@@ -61,7 +61,7 @@ post '/consumptions/store' do
     redirect '/'
   else
     @err = "Erreur : #{consumptions.errors.full_messages.join(", ")}"
-    redirect '/consumptions/create'
+    redirect '/consumptions/create', 302, { "location" => "/consumptions/create" }
   end
 end
 

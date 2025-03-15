@@ -7,6 +7,10 @@ source 'https://rubygems.org'
 gem 'activerecord'
 gem 'mysql2'
 gem 'rake'
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'puma'
+gem 'rackup'
 gem 'sinatra-activerecord'
 
 gem 'bcrypt'
@@ -15,8 +19,12 @@ gem 'i18n'
 
 gem 'cloudinary'
 gem 'chartkick'
-gem 'groupdate' # (optionnel pour grouper par période)
+
+gem 'groupdate'
 gem 'dotenv'
+
+gem 'nokogiri'
+gem 'valid_email'
 
 group :development, :test do
   gem 'rerun'
