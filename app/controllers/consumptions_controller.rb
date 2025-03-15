@@ -38,6 +38,9 @@ get '/' do
     @daily_consumptions_empty = true
   else
     @daily_calories = @daily_consumptions.sum { |consumption| consumption.meal.calories * consumption.quantity }
+    @daily_proteins = @daily_consumptions.sum { |consumption| consumption.meal.protein * consumption.quantity }
+    @daily_lipides = @daily_consumptions.sum { |consumption| consumption.meal.lipide * consumption.quantity }
+    @daily_glucides = @daily_consumptions.sum { |consumption| consumption.meal.glucide * consumption.quantity }
   end
 
   erb :"consumption/index"

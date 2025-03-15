@@ -17,7 +17,14 @@
             consumption.meal.calories %> kcal par portion)
         </p>
         <% end %>
-        <p>Aujourd'hui vous avez consommé <%= @daily_calories %> kcal.</p>
+        <p>Aujourd'hui vous avez consommé : </p>
+        <ul>
+            <li>Calories : <%= @daily_calories %> kcal. </li>
+            <li>Proteins : <%= @daily_proteins %> g. </li>
+            <li>Lipides : <%= @daily_lipides %> g. </li>
+            <li>Glucides : <%= @daily_glucides %> g.</li>
+        </ul>
+        
         <% end %>
         <div class="py-4 flex justify-center space-x-4">
             <a
